@@ -19,11 +19,6 @@ print('      _______ _      __________________       _______ _______ _______ ___
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print ("[-] Version: 4.0.0")
-print ("--------")
-print ("[+] THIS SCRIPT CODDED BY ALIILAPRO") 
-print ("[-] SITE: aliilapro.github.io") 
-print ("[-] TELEGRAM: aliilapro")
-print ("--------")
 referrer = input("[#] Enter the WARP+ ID:")
 def genString(stringLength):
 	try:
